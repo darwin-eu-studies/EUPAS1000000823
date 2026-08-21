@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "concept": {
+        "CONCEPT_ID": 44164500,
+        "CONCEPT_NAME": "Drosera rotundifolia extract / Euphrasia officinalis preparation / Grindelia Robusta / Lobelia inflata preparation / Staphylococcus aureus / staphylococcus aureus immunoserum / Streptococcus pneumoniae / ... Oral Solution",
+        "STANDARD_CONCEPT": "S",
+        "STANDARD_CONCEPT_CAPTION": "Standard",
+        "INVALID_REASON": "V",
+        "INVALID_REASON_CAPTION": "Valid",
+        "CONCEPT_CODE": "OMOP3041223",
+        "DOMAIN_ID": "Drug",
+        "VOCABULARY_ID": "RxNorm Extension",
+        "CONCEPT_CLASS_ID": "Clinical Drug Form",
+        "VALID_START_DATE": 1507248000000,
+        "VALID_END_DATE": 4102358400000
+      },
+      "isExcluded": false,
+      "includeDescendants": true,
+      "includeMapped": false
+    }
+  ]
+}
