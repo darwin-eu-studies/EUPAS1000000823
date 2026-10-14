@@ -1,0 +1,34 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.positai
+.claude/
+work/
+
+# Study results and exports
+results/
+Results*/
+*.zip
+*.rds
+
+# Secrets and local credentials
+.Renviron
+.env
+*.p8
+*.pem
+token.txt
+
+# Release / planning artefacts (keep local; do not ship in public code ZIP)
+Study_Code_Release_Checklist.md
+docs/
+
+# StudyResultsExplorer local cache / artefacts (do not ship results)
+inst/shiny/StudyResultsExplorer/data/data.rds
+inst/shiny/StudyResultsExplorer/data/*.rds
+# Keep empty raw/ in repo for standalone local testing; never commit result CSVs
+inst/shiny/StudyResultsExplorer/data/raw/*
+!inst/shiny/StudyResultsExplorer/data/raw/.gitkeep
+inst/shiny/StudyResultsExplorer/renv/library/
+inst/shiny/StudyResultsExplorer/.Rproj.user/
+_tmp_shiny_working/

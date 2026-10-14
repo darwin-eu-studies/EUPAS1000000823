@@ -1,0 +1,2 @@
+cohort_definition_id,cohort_name,limit,prior_observation,future_observation,end,age_range
+1,immunoglobulins,first,0,0,observation_period_end_date,1_120
